@@ -1,0 +1,30 @@
+h1 {
+    background-color: rgb(165, 165, 83) ;
+    color:brown
+}
+h2{
+    background-color: rgb(63, 0, 0);
+    color: aqua;
+}
+p {
+    background-color: azure;
+    color: sandybrown;
+   }
+section h1{
+    background-color: darksalmon;
+}
+
+section h2{
+    background-color:lightcoral;
+}
+.destaque{
+    font-weight: bolder;
+    font-size: 30 px
+}
+.destaque h1 {
+    background-color: black;
+    color:whitesmoke;
+}
+p#id_um {
+    font-size: 10px
+}
